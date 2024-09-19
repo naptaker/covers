@@ -162,12 +162,12 @@ electricGuitar = \relative c' {
     ees8 e8 e,4 ees'4 e8 ees8 ~ | ees8 e8 e,4 ees'8 e8 r4 |
   }
   \chordmode {
-    f,1 |
-    g,1 |
-    f,1 |
-    c1 |
-    g,1 |
-    f,1 |
+    r2 f,2 | % f,1 |
+    r2 g,2 | % g,1 |
+    r2 f,2 | % f,1 |
+    r2 c2 | % c1 |
+    r2 g,2 | % g,1 |
+    r2 f,2 | % f,1 |
     a,4. a,4. a,4 ~ |
     a,1 |
   }
